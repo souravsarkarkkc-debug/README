@@ -11,14 +11,14 @@ AI-ML | Computer Vision | Deep Learning | Reinforcement Learning
   <img src="https://img.shields.io/badge/EMAIL-Sourav.sarkar.kkc%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://github.com/yadavsonu917895-tech">
+<a href="https://github.com/souravsarkarkkc-debug">
   <img src="https://img.shields.io/badge/GITHUB-yadavsonu917895--tech-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/in/sonu-yadav-a3a87224a/">
+<a href="https://www.linkedin.com/in/sourav-sarkar-207336303/">
   <img src="https://img.shields.io/badge/LINKEDIN-Sonu%20Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=yadavsonu917895-tech&style=for-the-badge&label=PROFILE+VIEWS">
+<img src="https://komarev.com/ghpvc/?username=souravsarkarkkc-debug-tech&style=for-the-badge&label=PROFILE+VIEWS">
 
 </div>
